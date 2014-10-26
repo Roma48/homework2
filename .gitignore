@@ -10,4 +10,8 @@ wp-content/blogs.dir/
 wp-content/cache/
 wp-content/upgrade/
 
+<<<<<<< HEAD
 wp-content/wp-cache-config.php
+=======
+wp-content/wp-cache-config.php
+>>>>>>> 3e2e5679eed1686b7fc4b0f319fa65531c2c7c3e
