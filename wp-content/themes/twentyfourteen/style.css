@@ -1,7 +1,7 @@
 body {
     margin: 0 !important;
     background: url('/wp-content/themes/twentyfourteen/images/header_bg.png') repeat-x center -342px #fff;
-
+    color: #4c7689;
 }
 
 .header-main {
@@ -9,6 +9,7 @@ body {
     width: 901px;
     display: block;
     margin: 0 auto;
+    margin-bottom: 20px;
 }
 
 .logo {
@@ -93,3 +94,25 @@ body {
 .social .y a{
     background-position: -96px 10px;
 }
+
+#content {
+    width: 901px;
+    display: block;
+    margin: 0 auto;
+}
+
+.entry-title {
+    font-family: "Trebuchet MS";
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 50px;
+    padding: 0 0 8px;
+    margin: 0 0 27px;
+    border-bottom: 1px solid #a7c3cf;
+}
+
+.entry-content img {
+    display: block;
+    float: left;
+}
+
