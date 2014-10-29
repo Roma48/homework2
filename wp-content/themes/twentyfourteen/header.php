@@ -41,10 +41,10 @@
         </nav>
 
             <ul class="social">
-                <li class="facebook"><a href="/"></a></li>
-                <li class="vk"><a href="/"></a></li>
-                <li class="twitter"><a href="/"></a></li>
-                <li class="y"><a href="/"></a></li>
+                <li class="facebook"><a href="http://www.facebook.com/pages/GeekHub/158983477520070">facebook</a></li>
+                <li class="vk"><a href="http://vkontakte.ru/geekhub">Вконтакте</a></li>
+                <li class="twitter"><a href="http://twitter.com/#!/geek_hub">twitter</a></li>
+                <li class="y"><a href="http://www.youtube.com/user/GeekHubchannel">youtube</a></li>
                 
             </ul>
 

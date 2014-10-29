@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf845301-dfde-4e06-8295-ff32ad01fba2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/twentythirteen/header-home.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css" />
     </list>
     <ignored path="homework2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +29,7 @@
       <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="40" selection-start="1584" selection-end="1584" vertical-scroll-proportion="-18.291666" vertical-offset="251" max-vertical-offset="960">
+            <state line="46" column="94" selection-start="1769" selection-end="1769" vertical-scroll-proportion="-18.291666" vertical-offset="251" max-vertical-offset="960">
               <folding>
                 <element signature="e#6#207#0" expanded="true" />
               </folding>
@@ -37,10 +37,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header-home.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/header-home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="574">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="19" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.5986622" vertical-offset="797" max-vertical-offset="1500">
+            <state line="77" column="19" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.0" vertical-offset="797" max-vertical-offset="1500">
               <folding />
             </state>
           </provider>
@@ -59,8 +68,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/header.php" />
       </list>
     </option>
   </component>
@@ -417,18 +426,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="19" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.0" vertical-offset="797" max-vertical-offset="1500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="40" selection-start="1584" selection-end="1584" vertical-scroll-proportion="-18.291666" vertical-offset="251" max-vertical-offset="960">
+        <state line="46" column="94" selection-start="1769" selection-end="1769" vertical-scroll-proportion="-18.291666" vertical-offset="251" max-vertical-offset="960">
           <folding>
             <element signature="e#6#207#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/header-home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="19" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.5986622" vertical-offset="797" max-vertical-offset="1500">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="598">
           <folding />
         </state>
       </provider>
