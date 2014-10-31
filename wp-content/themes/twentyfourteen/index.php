@@ -14,7 +14,7 @@
  * @since Twenty Fourteen 1.0
  */
 
-get_header(); ?>
+get_header('home'); ?>
 
 <div id="main-content" class="main-content">
 
