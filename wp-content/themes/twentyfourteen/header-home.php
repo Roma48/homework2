@@ -64,7 +64,7 @@
             </fieldset>
 
         </form>
-        <img class="splash" src="/wp-content/themes/twentyfourteen/images/splash.png" alt="splash">
+
         </div>
 
     </header><!-- #masthead -->
