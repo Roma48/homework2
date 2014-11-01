@@ -27,7 +27,7 @@ get_header('home'); ?>
 
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
-
+        <h1 class="front-text">ДЕТАЛІ КУРСІВ ТА РЕЄСТРАЦІЯ</h1>
 		<?php
 			if ( have_posts() ) :
 				// Start the Loop.
@@ -53,7 +53,7 @@ get_header('home'); ?>
 
 		</div><!-- #content -->
 	</div><!-- #primary -->
-	<?php get_sidebar( 'content' ); ?>
+
 </div><!-- #main-content -->
 
 <?php

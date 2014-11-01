@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf845301-dfde-4e06-8295-ff32ad01fba2" name="Default" comment="" />
+    <list default="true" id="bf845301-dfde-4e06-8295-ff32ad01fba2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/single.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/single.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="homework2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +33,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="358" column="17" selection-start="6190" selection-end="6190" vertical-scroll-proportion="0.5144404" vertical-offset="5085" max-vertical-offset="6330">
+            <state line="551" column="0" selection-start="9540" selection-end="9540" vertical-scroll-proportion="0.8451835" vertical-offset="7528" max-vertical-offset="8415">
               <folding />
             </state>
           </provider>
@@ -35,38 +42,25 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="810">
-              <folding>
-                <marker date="1414695146466" expanded="true" signature="542:1525" placeholder="..." />
-                <marker date="1414695146466" expanded="true" signature="749:1465" placeholder="..." />
-                <marker date="1414695146466" expanded="true" signature="803:1440" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header-home.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/header-home.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="0" selection-start="2248" selection-end="2248" vertical-scroll-proportion="-18.625" vertical-offset="423" max-vertical-offset="1050">
+            <state line="29" column="29" selection-start="834" selection-end="834" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="810">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/header.php">
+      <file leaf-file-name="single.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="17" selection-start="1354" selection-end="1761" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="945">
+            <state line="29" column="44" selection-start="861" selection-end="861" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="600">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/page.php">
+      <file leaf-file-name="content.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/content.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="780">
+            <state line="28" column="0" selection-start="705" selection-end="705" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="735">
               <folding />
             </state>
           </provider>
@@ -92,27 +86,32 @@
         <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/taxonomy-post_format.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/tag.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentythirteen/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/archive.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-aside.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-image.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/header-home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/sidebar.php" />
+        <option value="$PROJECT_DIR$/wp-trackback.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/category.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/page-templates/contributors.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/page-templates/full-width.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/archive.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-aside.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-featured-post.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-image.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/single.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-page.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/page.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/content.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/header-home.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
     <option name="y" value="25" />
-    <option name="width" value="1366" />
-    <option name="height" value="743" />
+    <option name="width" value="1282" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -140,7 +139,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -156,6 +154,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="homework2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homework2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homework2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,22 +251,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homework2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homework2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../wordpress/wp-content/themes/twentyfourteen/header.php" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="preferences.sourceCode.PHP" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method />
@@ -262,9 +291,32 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bf845301-dfde-4e06-8295-ff32ad01fba2" name="Default" comment="" />
@@ -274,47 +326,47 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="0" />
+    <frame x="-1" y="25" width="1282" height="1000" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26701966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26640624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2602118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2602118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -334,287 +386,407 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-activate.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="62" selection-start="898" selection-end="939" vertical-scroll-proportion="0.0" vertical-offset="2386" max-vertical-offset="2940">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="1980">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/footer.php">
+    <entry file="file://$PROJECT_DIR$/wp-blog-header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="35" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="14" selection-start="1216" selection-end="1340" vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="945">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="824">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-page.php">
+    <entry file="file://$PROJECT_DIR$/wp-comments-post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="16" selection-start="466" selection-end="716" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="570" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="780">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="2490">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="62" selection-start="898" selection-end="939" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="2940">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="1095">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/footer.php">
+    <entry file="file://$PROJECT_DIR$/wp-config-sample.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="35" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="525" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="14" selection-start="1216" selection-end="1340" vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="945">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="1095">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-page.php">
+    <entry file="file://$PROJECT_DIR$/wp-cron.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="16" selection-start="466" selection-end="716" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="570" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="1695">
+          <folding>
+            <marker date="1414855051764" expanded="true" signature="-1:-1" placeholder="SELECT optio..$wpdb-&gt;options WHERE..." />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/page.php">
+    <entry file="file://$PROJECT_DIR$/wp-links-opml.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="780">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="1125">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-load.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="0" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" vertical-offset="1284" max-vertical-offset="1860">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="930">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/page.php">
+    <entry file="file://$PROJECT_DIR$/wp-login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="540" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="14265">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/content-aside.php">
+    <entry file="file://$PROJECT_DIR$/wp-mail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="495" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/content-none.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/content-link.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="23" selection-start="774" selection-end="774" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="630" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/taxonomy-post_format.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="45" selection-start="553" selection-end="782" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="690" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/tag.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="45" selection-start="411" selection-end="774" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="720" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/image.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1185" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="3900">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-settings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="153.75" vertical-offset="3690" max-vertical-offset="5565" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../wordpress/wp-content/themes/twentyfourteen/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="14" selection-start="1344" selection-end="2202" vertical-scroll-proportion="-18.125" vertical-offset="360" max-vertical-offset="945" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="38" selection-start="983" selection-end="1950" vertical-scroll-proportion="0.40106952" vertical-offset="150" max-vertical-offset="735" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/header-home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="598" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="30" selection-start="824" selection-end="824" vertical-scroll-proportion="0.6133829" vertical-offset="0" max-vertical-offset="825" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/content-aside.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="562" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="575" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="495" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/content-none.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/content-link.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="23" selection-start="774" selection-end="774" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="630" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/taxonomy-post_format.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="45" selection-start="553" selection-end="782" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="690" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/tag.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="45" selection-start="411" selection-end="774" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="720" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentythirteen/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="540" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/page-templates/contributors.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="103" selection-start="632" selection-end="703" vertical-scroll-proportion="-10.625" vertical-offset="90" max-vertical-offset="780" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/page-templates/full-width.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="12" selection-start="462" selection-end="822" vertical-scroll-proportion="-4.9583335" vertical-offset="121" max-vertical-offset="630" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/archive.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="33" selection-start="786" selection-end="1415" vertical-scroll-proportion="-6.25" vertical-offset="270" max-vertical-offset="960" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="10" selection-start="309" selection-end="903" vertical-scroll-proportion="-10.875" vertical-offset="39" max-vertical-offset="960" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-aside.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="35" selection-start="273" selection-end="1609" vertical-scroll-proportion="-14.375" vertical-offset="180" max-vertical-offset="855" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-featured-post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="35" selection-start="546" selection-end="1094" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="510" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-image.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="10" selection-start="273" selection-end="885" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="855" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="16" selection-start="466" selection-end="716" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="570" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="35" selection-start="575" selection-end="575" vertical-scroll-proportion="0.38043478" vertical-offset="0" max-vertical-offset="552" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="780">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="5565">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/header.php">
+    <entry file="file://$PROJECT_DIR$/wp-signup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="17" selection-start="1354" selection-end="1761" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="945">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="11325">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-trackback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1890">
+          <folding>
+            <marker date="1414855051980" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$wpdb-&gt;comments WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xmlrpc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="1530">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/admin-bar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="13050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/atomlib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="5235">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/author-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="7020">
+          <folding>
+            <marker date="1414855051784" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..$wpdb-&gt;posts WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/bookmark.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="6255">
+          <folding>
+            <marker date="1414855051788" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$wpdb-&gt;links WHERE..." />
+            <marker date="1414855051788" expanded="true" signature="-1:-1" placeholder="SELECT * $le..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/bookmark-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="4485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/cache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="10545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/canonical.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="8760">
+          <folding>
+            <marker date="1414855051788" expanded="true" signature="-1:-1" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051788" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051788" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..$wpdb-&gt;posts WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/capabilities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="23100">
+          <folding>
+            <marker date="1414855051788" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$wpdb-&gt;users WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5862069" vertical-offset="34" max-vertical-offset="5175">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/link-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.043758042" vertical-offset="34" max-vertical-offset="47100">
+          <folding>
+            <marker date="1414855051936" expanded="true" signature="-1:-1" placeholder="SELECT p.ID ..$wpdb-&gt;posts AS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.043758042" vertical-offset="34" max-vertical-offset="87600">
+          <folding>
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT post_..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT comme..$wpdb-&gt;comments WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT meta_..$wpdb-&gt;postmeta WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT comme..$wpdb-&gt;comments WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT pinge..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT pinge..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT to_pi..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT ID, p..$wpdb-&gt;posts&#10;&#9;&#9;WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..$wpdb-&gt;posts&#10;&#9;&#9;&#9;WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..$wpdb-&gt;posts&#10;&#9;&#9;&#9;WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT comme..$wpdb-&gt;comments WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT meta_..$wpdb-&gt;postmeta WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT meta_..$wpdb-&gt;postmeta WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT post_..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT DATE_..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT ID FR..$wpdb-&gt;posts WHERE..." />
+            <marker date="1414855051952" expanded="true" signature="-1:-1" placeholder="SELECT $wpdb..$wpdb-&gt;posts WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post-formats.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.043758042" vertical-offset="34" max-vertical-offset="3660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/post-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.043758042" vertical-offset="34" max-vertical-offset="26475">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class-http.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.043758042" vertical-offset="34" max-vertical-offset="32520">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class-feed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.04244694" vertical-offset="34" max-vertical-offset="2190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class.wp-styles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.04244694" vertical-offset="34" max-vertical-offset="3120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class.wp-scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.04244694" vertical-offset="34" max-vertical-offset="3675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class.wp-dependencies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.04244694" vertical-offset="34" max-vertical-offset="7725">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/category-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.04244694" vertical-offset="34" max-vertical-offset="21120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-none.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="859">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="22" selection-start="890" selection-end="890" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/page-templates/contributors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="543" selection-end="969" vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/page-templates/full-width.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="27" selection-start="365" selection-end="873" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="998" selection-end="998" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="630">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/featured-content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="824">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-featured-post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="168" selection-end="1123" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="137" selection-start="534" selection-end="613" vertical-scroll-proportion="0.30495554" vertical-offset="0" max-vertical-offset="787">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/author.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-link.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/content-quote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="824">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/sidebar-content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="824">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/taxonomy-post_format.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.31839624" vertical-offset="270" max-vertical-offset="1140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="44" selection-start="861" selection-end="861" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="705" selection-end="705" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="735">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-          <folding>
-            <marker date="1414695146466" expanded="true" signature="542:1525" placeholder="..." />
-            <marker date="1414695146466" expanded="true" signature="749:1465" placeholder="..." />
-            <marker date="1414695146466" expanded="true" signature="803:1440" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/header-home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="0" selection-start="2248" selection-end="2248" vertical-scroll-proportion="-18.625" vertical-offset="423" max-vertical-offset="1050">
+        <state line="29" column="29" selection-start="834" selection-end="834" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="810">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyfourteen/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="358" column="17" selection-start="6190" selection-end="6190" vertical-scroll-proportion="0.5144404" vertical-offset="5085" max-vertical-offset="6330">
+        <state line="551" column="0" selection-start="9540" selection-end="9540" vertical-scroll-proportion="0.8451835" vertical-offset="7528" max-vertical-offset="8415">
           <folding />
         </state>
       </provider>

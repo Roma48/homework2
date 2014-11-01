@@ -356,7 +356,7 @@ h3 {
     padding: 24px 5px 24px 0;
     border-top: 1px solid #D2DCE1;
     cursor: pointer;
-    margin-top: 40px;
+
 }
 
 .main-content article.post img {
@@ -414,4 +414,143 @@ h3 {
     font-family: Arial, sans-serif;
     line-height: 18px;
     color: #39525A;
+}
+
+.single .type-post {
+    width: 661px;
+    float: right;
+}
+
+.single .type-post .entry-title {
+    padding: 0 0 18px;
+    color: #EA2778;
+    font-family: "Trebuchet MS";
+    font-weight: normal;
+    font-size: 24px;
+    border-bottom: none;
+    margin-bottom: 0px;
+    line-height: 20px;
+}
+
+.single .type-post .post-thumbnail {
+    float: right;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.single .type-post .entry-content {
+    width: 661px;
+    float: left;
+    margin-right: 0px;
+    margin-top: -80px;
+}
+
+.single .type-post .entry-content h2 {
+    clear: both;
+    text-align: center;
+    font-family: "Trebuchet MS";
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #4C7687;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    padding: 0 0 8px;
+    position: relative;
+    z-index: 2;
+    border-bottom: 1px solid #D2DCE1;
+}
+
+.single .type-post .entry-content p {
+    margin: 0px;
+    width: 541px;
+}
+
+.single aside {
+    width: 200px;
+    float: right;
+
+    margin-right: 40px;
+}
+
+.single .widget-title {
+    text-align: center;
+    font-family: "Trebuchet MS";
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #4C7687;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    padding: 0 0 8px;
+    position: relative;
+    z-index: 2;
+    border-bottom: 1px solid #D2DCE1;
+    margin: 0px;
+}
+
+.single aside ul li {
+    border-bottom: 1px dotted #D2DCE1;
+    list-style: none;
+    width: 200px;
+
+}
+
+.single aside ul li a {
+    display: block;
+    padding: 7px 0 7px 8px;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    color: #E11D5D;
+}
+
+.single aside ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.team {
+    margin: 0px;
+    padding: 0px;
+}
+
+.team li {
+    width: 661px;
+    height: 194px;
+    list-style: none;
+}
+
+.team li a img {
+    margin-right: 30px;
+}
+
+.team li h3 {
+    padding: 24px 0 4px;
+    font-family: "Trebuchet MS";
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 29px;
+    color: #EA2678;
+
+}
+
+.team li p {
+    width: 460px !important;
+    float: left !important;
+}
+
+.front-text {
+    text-align: center;
+    font-family: "Trebuchet MS";
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #4C7687;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    position: relative;
+    z-index: 2;
+    margin-bottom: 5px;
 }
